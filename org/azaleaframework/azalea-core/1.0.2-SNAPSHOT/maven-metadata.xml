@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.azaleaframework</groupId>
+  <artifactId>azalea-core</artifactId>
+  <version>1.0.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180121.185700</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20180121185700</lastUpdated>
+  </versioning>
+</metadata>
